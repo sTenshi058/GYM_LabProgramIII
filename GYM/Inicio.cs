@@ -69,5 +69,10 @@ namespace GYM
             M_Usuarios MUsuarios = new M_Usuarios();
             MUsuarios.Show();
         }
+
+        private void Inicio_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
