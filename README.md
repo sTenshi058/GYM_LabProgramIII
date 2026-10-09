@@ -1,1 +1,1 @@
-Old programming project for class, embarrassing my standards today.
+Old programming project for a class, embarrassing for my standards today, but looked fondly back upon.
